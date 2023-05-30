@@ -1,0 +1,70 @@
+Z:\2023\programacion\TP 4bis\obj\Debug\net6.0\TP4bis.csproj.AssemblyReference.cache
+Z:\2023\programacion\TP 4bis\obj\Debug\net6.0\TP4bis.GeneratedMSBuildEditorConfig.editorconfig
+Z:\2023\programacion\TP 4bis\obj\Debug\net6.0\TP4bis.AssemblyInfoInputs.cache
+Z:\2023\programacion\TP 4bis\obj\Debug\net6.0\TP4bis.AssemblyInfo.cs
+Z:\2023\programacion\TP 4bis\obj\Debug\net6.0\TP4bis.csproj.CoreCompileInputs.cache
+Z:\2023\programacion\TP 4bis\obj\Debug\net6.0\TP4bis.MvcApplicationPartsAssemblyInfo.cache
+Z:\2023\programacion\TP 4bis\obj\Debug\net6.0\TP4bis.RazorAssemblyInfo.cache
+Z:\2023\programacion\TP 4bis\obj\Debug\net6.0\TP4bis.RazorAssemblyInfo.cs
+Z:\2023\programacion\TP4bis\bin\Debug\net6.0\appsettings.Development.json
+Z:\2023\programacion\TP4bis\bin\Debug\net6.0\appsettings.json
+Z:\2023\programacion\TP4bis\bin\Debug\net6.0\TP4bis.staticwebassets.runtime.json
+Z:\2023\programacion\TP4bis\bin\Debug\net6.0\TP4bis.exe
+Z:\2023\programacion\TP4bis\bin\Debug\net6.0\TP4bis.deps.json
+Z:\2023\programacion\TP4bis\bin\Debug\net6.0\TP4bis.runtimeconfig.json
+Z:\2023\programacion\TP4bis\bin\Debug\net6.0\TP4bis.dll
+Z:\2023\programacion\TP4bis\bin\Debug\net6.0\TP4bis.pdb
+Z:\2023\programacion\TP4bis\obj\Debug\net6.0\TP4bis.csproj.AssemblyReference.cache
+Z:\2023\programacion\TP4bis\obj\Debug\net6.0\TP4bis.GeneratedMSBuildEditorConfig.editorconfig
+Z:\2023\programacion\TP4bis\obj\Debug\net6.0\TP4bis.AssemblyInfoInputs.cache
+Z:\2023\programacion\TP4bis\obj\Debug\net6.0\TP4bis.AssemblyInfo.cs
+Z:\2023\programacion\TP4bis\obj\Debug\net6.0\TP4bis.csproj.CoreCompileInputs.cache
+Z:\2023\programacion\TP4bis\obj\Debug\net6.0\TP4bis.MvcApplicationPartsAssemblyInfo.cache
+Z:\2023\programacion\TP4bis\obj\Debug\net6.0\TP4bis.RazorAssemblyInfo.cache
+Z:\2023\programacion\TP4bis\obj\Debug\net6.0\TP4bis.RazorAssemblyInfo.cs
+Z:\2023\programacion\TP4bis\obj\Debug\net6.0\staticwebassets\msbuild.TP4bis.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\2023\programacion\TP4bis\obj\Debug\net6.0\staticwebassets\msbuild.build.TP4bis.props
+Z:\2023\programacion\TP4bis\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TP4bis.props
+Z:\2023\programacion\TP4bis\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TP4bis.props
+Z:\2023\programacion\TP4bis\obj\Debug\net6.0\staticwebassets.pack.json
+Z:\2023\programacion\TP4bis\obj\Debug\net6.0\staticwebassets.build.json
+Z:\2023\programacion\TP4bis\obj\Debug\net6.0\staticwebassets.development.json
+Z:\2023\programacion\TP4bis\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+Z:\2023\programacion\TP4bis\obj\Debug\net6.0\scopedcss\bundle\TP4bis.styles.css
+Z:\2023\programacion\TP4bis\obj\Debug\net6.0\scopedcss\projectbundle\TP4bis.bundle.scp.css
+Z:\2023\programacion\TP4bis\obj\Debug\net6.0\TP4bis.dll
+Z:\2023\programacion\TP4bis\obj\Debug\net6.0\refint\TP4bis.dll
+Z:\2023\programacion\TP4bis\obj\Debug\net6.0\TP4bis.pdb
+Z:\2023\programacion\TP4bis\obj\Debug\net6.0\TP4bis.genruntimeconfig.cache
+Z:\2023\programacion\TP4bis\obj\Debug\net6.0\ref\TP4bis.dll
+C:\Users\47573419\Downloads\TP4bis\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\47573419\Downloads\TP4bis\bin\Debug\net6.0\appsettings.json
+C:\Users\47573419\Downloads\TP4bis\bin\Debug\net6.0\TP4bis.staticwebassets.runtime.json
+C:\Users\47573419\Downloads\TP4bis\bin\Debug\net6.0\TP4bis.exe
+C:\Users\47573419\Downloads\TP4bis\bin\Debug\net6.0\TP4bis.deps.json
+C:\Users\47573419\Downloads\TP4bis\bin\Debug\net6.0\TP4bis.runtimeconfig.json
+C:\Users\47573419\Downloads\TP4bis\bin\Debug\net6.0\TP4bis.dll
+C:\Users\47573419\Downloads\TP4bis\bin\Debug\net6.0\TP4bis.pdb
+C:\Users\47573419\Downloads\TP4bis\obj\Debug\net6.0\TP4bis.csproj.AssemblyReference.cache
+C:\Users\47573419\Downloads\TP4bis\obj\Debug\net6.0\TP4bis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47573419\Downloads\TP4bis\obj\Debug\net6.0\TP4bis.AssemblyInfoInputs.cache
+C:\Users\47573419\Downloads\TP4bis\obj\Debug\net6.0\TP4bis.AssemblyInfo.cs
+C:\Users\47573419\Downloads\TP4bis\obj\Debug\net6.0\TP4bis.csproj.CoreCompileInputs.cache
+C:\Users\47573419\Downloads\TP4bis\obj\Debug\net6.0\TP4bis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\47573419\Downloads\TP4bis\obj\Debug\net6.0\TP4bis.RazorAssemblyInfo.cache
+C:\Users\47573419\Downloads\TP4bis\obj\Debug\net6.0\TP4bis.RazorAssemblyInfo.cs
+C:\Users\47573419\Downloads\TP4bis\obj\Debug\net6.0\staticwebassets\msbuild.TP4bis.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\47573419\Downloads\TP4bis\obj\Debug\net6.0\staticwebassets\msbuild.build.TP4bis.props
+C:\Users\47573419\Downloads\TP4bis\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TP4bis.props
+C:\Users\47573419\Downloads\TP4bis\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TP4bis.props
+C:\Users\47573419\Downloads\TP4bis\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\47573419\Downloads\TP4bis\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\47573419\Downloads\TP4bis\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\47573419\Downloads\TP4bis\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\47573419\Downloads\TP4bis\obj\Debug\net6.0\scopedcss\bundle\TP4bis.styles.css
+C:\Users\47573419\Downloads\TP4bis\obj\Debug\net6.0\scopedcss\projectbundle\TP4bis.bundle.scp.css
+C:\Users\47573419\Downloads\TP4bis\obj\Debug\net6.0\TP4bis.dll
+C:\Users\47573419\Downloads\TP4bis\obj\Debug\net6.0\refint\TP4bis.dll
+C:\Users\47573419\Downloads\TP4bis\obj\Debug\net6.0\TP4bis.pdb
+C:\Users\47573419\Downloads\TP4bis\obj\Debug\net6.0\TP4bis.genruntimeconfig.cache
+C:\Users\47573419\Downloads\TP4bis\obj\Debug\net6.0\ref\TP4bis.dll
